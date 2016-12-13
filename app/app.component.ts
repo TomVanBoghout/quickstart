@@ -16,7 +16,7 @@ import {Hero} from "./hero";
     `
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
+  title = 'Tour of Heroes'; 
   heroes = [
     new Hero(1, 'Windstorm'),
     new Hero(13, 'Bombasto'),
